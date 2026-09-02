@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Propostas CIAVOLT",
+  "description": "Gerador e editor de propostas comerciais de energia solar com visualização em tempo real e exportação para PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
